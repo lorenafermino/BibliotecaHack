@@ -1,6 +1,6 @@
 ## **README.md**
 
-### **Biblioteca Hack n' Slash: Seu portal para o mundo dos jogos frenéticos!**
+### **Biblioteca Hack n' Slash: Seu portal para o mundo dos jogos frenéticos!** - Imersão Dev com Google Gemini
 
 **O que faz essa aplicação?**
 
